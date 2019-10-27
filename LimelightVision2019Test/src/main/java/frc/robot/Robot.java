@@ -38,7 +38,7 @@ public class Robot extends TimedRobot {
   //Motor related values
   private int target, error;
   private static double f = 0.1124;
-  private static double p = .4;
+  private static double p = .41;
   private static double i = 0;
   private static double pidD = 0;
   
