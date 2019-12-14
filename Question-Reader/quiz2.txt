@@ -1,0 +1,168 @@
+level; fair, just; like, equal
+aequus -a -um
+large, ample
+amplus -a -um
+foreign, strange, barbarous
+barbarus -a -um
+sure, certain
+certus -a -um
+careful, diligent
+diligens (Gen.) diligentis
+happy, lucky
+felix (Gen.) felicis
+uneven; unfair; unfavorable
+iniquus -a -um (in+aequus)
+right, just
+iustus -a -um (ius)
+happy, joyful, glad
+laetus -a -um
+famous, well-known
+notus -a -um
+sad, grim
+tristis -e
+useful, profitable
+utilis -e (utor)
+as, than, how?
+quam (conj. & adv.)
+gold
+aureus -a -um
+eager, desirous
+cupidus -a -um (+Obj. Gen.)
+right
+dexter, dextra, dextrum
+difficult
+difficilis -e (dis+facilis)
+unlike
+dissimilis -e (dis + similis)
+hard, harsh
+durus -a -um
+faithful, loyal
+fidelis -e
+suitable
+idoneus -a -um
+of high birth, noble, well-known
+nobilis -e
+equal
+par (Gen.) paris
+following, next
+posterus -a -um (post)
+near, nearby
+propinquus -a -um (prope)
+nearer
+propior, propius (prope)
+nearest
+proximus -a -um
+left
+sinister, sinistra, sinistrum
+strong
+validus -a -um (valeo)
+more, more greatly
+magis (adv.)
+greatly
+magnopere (adv.)
+most, most greatly, especially
+maxime (adv.)
+unless, if...not, except
+nisi (conj.) (ne+si)
+more, a larger amount
+plus, pluris n.
+middle of
+medius -a -um
+old
+senex, senis m.
+by birth
+natu
+nearly, almost
+prope (adv.)
+near
+prope (prep + Acc.)
+good
+bonus -a -um
+better
+melior, melius (Gen.) melioris
+best
+optimus -a -um
+bad, wicked
+malus -a -um
+worse
+peior, peius (Gen.) peioris
+worst
+pessimus -a -um
+great, large
+magnus -a -um
+greater, larger
+maior, maius (Gen.) maioris
+greatest, largest
+maximus -a -um
+small
+parvus -a -um
+smaller, lesser
+minor, minus (Gen.) minoris
+smallest, least
+minimus -a -um
+many
+multi -ae -a
+more
+plures, plura
+most, very many
+plurimi -ae -a
+outer
+exterior, exterius (Gen.) exterioris
+outermost, farthest, last, end of
+extremus -a -um
+lower
+inferior, inferius (Gen.) inferioris
+lowest, bottom of
+infimus -a -um / imus -a -um
+inner
+interior, interius (Gen.) interioris
+inmost
+intimus -a -um
+former, earlier
+prior, prius (Gen.) prioris
+first, foremost
+primus -a -um
+nearer, closer
+propior, propius (Gen.) propioris
+nearest, next, closest
+proximus -a -um
+higher
+superior, superius (Gen.) superioris
+highest, top of
+summus -a -um
+farther
+ulterior, ulterius (Gen.) ulterioris
+farthest
+ultimus -a -um
+a little
+paulum -i n.
+daily, every day
+cotidie (adv.)
+then, next
+deinde (adv.) (de+inde)
+there, that place
+eo (adv.)
+here, to this place, hither
+huc (adv.)
+there, to that place there, thither
+illuc (adv.)
+not yet
+nondum (adv.) (non+dum)
+never
+numquam (adv.) (ne+umquam)
+almost
+paene (adv.)
+to where? to what place? whither?
+quo (interrog. adv.)
+at the same time
+simul (adv.)
+at once, immediately
+statim (adv.)
+at length, at last, finally
+tandem (adv.)
+as
+atque (conj. after aeque / pariter / simul) (at+que)
+after
+postquam (conj.) (post+quam)
+how, as, when, since
+ut (conj.)
